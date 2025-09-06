@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-// backend service name from docker-compose.yml
+
 const API_BASE = "http://localhost:5000"; 
 
 
@@ -23,7 +23,7 @@ const handleClick = async () => {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px", fontFamily: "Arial" }}>
-      <h1>🚀 Fullstack Redis Demo</h1>
+      <h1> Fullstack Redis Demo</h1>
       <p><b>Health Status:</b> {health}</p>
       <button
         onClick={handleClick}

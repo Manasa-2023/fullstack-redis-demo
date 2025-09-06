@@ -14,9 +14,9 @@ It consists of a simple **Fullstack Redis Demo Application**:
 
 - Automatic **CI/CD pipeline** using GitHub Actions  
 - Build and push Docker images to Docker Hub  
-- Expose APIs: `/health`, `/counter`, `/metrics`  
+- Expose APIs: `/health`, `/counter`
 - Styled frontend showing Health Status and Counter value  
-- Automated backend tests using **Jest + Supertest**  
+- Automated backend tests using **Jest**  
 
 ---
 
@@ -40,8 +40,6 @@ It consists of a simple **Fullstack Redis Demo Application**:
 4. Open in browser:
    - Frontend: [http://localhost:3000](http://localhost:3000)  
    - Backend Health API: [http://localhost:5000/health](http://localhost:5000/health)  
-   - Backend Metrics API: [http://localhost:5000/metrics](http://localhost:5000/metrics)  
-
 ---
 
 ## Docker Hub Images
