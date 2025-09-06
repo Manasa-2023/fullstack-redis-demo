@@ -34,4 +34,4 @@ app.get("/counter", async (req, res) => {
 });
 
 // Start server
-app.listen(3000, () => console.log("Backend running on port 3000"));
+app.listen(3000, () => console.log("Backend running on port 3000")); 
