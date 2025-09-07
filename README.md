@@ -3,6 +3,8 @@
 ### Home Page Screenshot  
 ![Fullstack Redis Home Page](https://github.com/user-attachments/assets/7db27e22-f2b2-47d6-b44c-5385c3ab42d2)
 
+---
+
 # Project 2 - Incident Management System
 
 ## Screenshots
@@ -34,3 +36,10 @@ Shows an example of an email received in the Gmail inbox when an incident is log
 ![Email Notification Open](https://github.com/user-attachments/assets/a36b1aa8-9ee0-40b8-8e60-5fe0fd760b4e)
 
 ![Email Notification Resolved](https://github.com/user-attachments/assets/2ba927cd-6916-47c9-b2e5-3da9b146f09c)
+
+---
+
+### 5. Docker Image  
+Shows the built Docker image available locally.
+
+![Docker Image](https://github.com/user-attachments/assets/48e5f342-4f82-4efd-9179-cc86eb5c992d)
