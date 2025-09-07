@@ -1,3 +1,8 @@
+# Project 1 - CI/CD Pipeline
+
+### Home Page Screenshot  
+![Fullstack Redis Home Page](https://github.com/user-attachments/assets/7db27e22-f2b2-47d6-b44c-5385c3ab42d2)
+
 # Project 2 - Incident Management System
 
 ## Screenshots
